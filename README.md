@@ -2,7 +2,7 @@
 Community Contribution projects for GR5293 Statistical Graphics  web site: https://jtr13.github.io/spring19/
 
 How to contribute:
-
+aaaa
 Follow instructions in [edav.info](https://edav.info/github.html#branching-someone-elses-repo) to fork and clone a repo, work on a new branch and then submit a pull request.
 
 On your branch, do the following:
